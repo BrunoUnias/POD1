@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
-#define TAMANHO_VETOR 100000
+
+#define TAMANHO_VETOR 1000
 #define MAX 25
 
 
